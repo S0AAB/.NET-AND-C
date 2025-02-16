@@ -1,0 +1,14 @@
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\bin\Release\net9.0\first-app.exe
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\bin\Release\net9.0\first-app.deps.json
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\bin\Release\net9.0\first-app.runtimeconfig.json
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\bin\Release\net9.0\first-app.dll
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\bin\Release\net9.0\first-app.pdb
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.AssemblyInfoInputs.cache
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.AssemblyInfo.cs
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.dll
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\refint\first-app.dll
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.pdb
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\first-app.genruntimeconfig.cache
+C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Release\net9.0\ref\first-app.dll
