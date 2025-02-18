@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Santiago Ah\\.nuget\\packages\\": {}
+    "C:\\Users\\santiago.ahumada\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago Ah\\Desktop\\C-NET\\first-app\\first-app.csproj",
+      "projectUniqueName": "C:\\Users\\santiago.ahumada\\source\\repos\\.NET-AND-C\\first-app\\first-app.csproj",
       "projectName": "first-app",
-      "projectPath": "C:\\Users\\Santiago Ah\\Desktop\\C-NET\\first-app\\first-app.csproj",
-      "packagesPath": "C:\\Users\\Santiago Ah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago Ah\\Desktop\\C-NET\\first-app\\obj\\",
+      "projectPath": "C:\\Users\\santiago.ahumada\\source\\repos\\.NET-AND-C\\first-app\\first-app.csproj",
+      "packagesPath": "C:\\Users\\santiago.ahumada\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santiago.ahumada\\source\\repos\\.NET-AND-C\\first-app\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Santiago Ah\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\santiago.ahumada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

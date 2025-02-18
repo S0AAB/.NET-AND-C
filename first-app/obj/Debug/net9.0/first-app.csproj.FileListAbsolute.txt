@@ -12,3 +12,18 @@ C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Debug\net9.0\refint\first-app.d
 C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Debug\net9.0\first-app.pdb
 C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Debug\net9.0\first-app.genruntimeconfig.cache
 C:\Users\Santiago Ah\Desktop\C-NET\first-app\obj\Debug\net9.0\ref\first-app.dll
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\bin\Debug\net9.0\first-app.exe
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\bin\Debug\net9.0\first-app.deps.json
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\bin\Debug\net9.0\first-app.runtimeconfig.json
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\bin\Debug\net9.0\first-app.dll
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\bin\Debug\net9.0\first-app.pdb
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.AssemblyInfoInputs.cache
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.AssemblyInfo.cs
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.csproj.CoreCompileInputs.cache
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.sourcelink.json
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.dll
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\refint\first-app.dll
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.pdb
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\first-app.genruntimeconfig.cache
+C:\Users\santiago.ahumada\source\repos\.NET-AND-C\first-app\obj\Debug\net9.0\ref\first-app.dll

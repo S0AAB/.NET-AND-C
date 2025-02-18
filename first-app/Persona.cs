@@ -1,24 +1,50 @@
+
+using interfacePersona;
+
 namespace clasePersona;
-public class Person{
-    private String nombre="nombreDefault";
-    private String apellido1="apellidoDefault";
-    private int dni=212;
+public class Persona: IPersona{
+    
+    //Atributos
+    public string nombre { get; set; }
+    public string apellido { get; set; }
+    public int dni { get; set; }
 
-    public string Nombre { get => nombre; set => nombre = value; }
-    public string Apellido1 { get => apellido1; set => apellido1 = value; }
-    public int Dni { get => dni; set => dni = value; }
-
-    public Person(string nombre, string apellido1, int dni)
+    
+    //Estructura de datos - atributos
+    private List<String> amigos = new List<String>();
+    
+    
+    //Constructor clase persona
+    public Persona(string nombre, string apellido1, int dni)
     {
-        this.Nombre = nombre;
-        this.Apellido1 = apellido1;
-        this.Dni = dni;
+        this.nombre = nombre;
+        this.apellido = apellido1;
+        this.dni = dni;
+    }
+    
+    //Sobrecarga constructor vacio
+    public Persona(){}
+
+    
+    //Metodos
+   
+    public virtual void Saludar(){
+        Console.WriteLine("Hola ,soy "+ nombre);
     }
 
-    public Person(){}
+    public void agregarAmigo(string nombre)
+    {
+        amigos.Add(nombre);
+    }
 
-    public void Saludar(){
-        Console.Write("Hola ,soy "+ nombre);
+    
+    public void mostrarAmigos()
+    {
+        Console.WriteLine("Mis amigos son:");
+        foreach (var amigo in amigos)
+        {   
+            Console.WriteLine(amigo);
+        }
     }
 
     
